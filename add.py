@@ -1,8 +1,8 @@
 
 def add():
     a = 5
-    b = 3
-    c = 4
+    b = 4
+    c = 5
     return (a + b + c)
 
 print add()
