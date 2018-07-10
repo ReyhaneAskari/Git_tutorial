@@ -2,6 +2,7 @@
 def add():
     a = 5
     b = 3
-    return (a + b)
+    c = 4
+    return (a + b + c)
 
 print add()
